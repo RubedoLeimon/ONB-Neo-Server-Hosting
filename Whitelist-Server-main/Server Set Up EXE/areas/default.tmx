@@ -437,7 +437,7 @@ Beware the Dark Power...</property>
    </properties>
    <point/>
   </object>
-  <object id="123" name="SpecialDevBlocker" class="Checkpoint" gid="69" x="224" y="64" width="64" height="32">
+  <object id="123" name="SpecialDevBlocker" class="Checkpoint" gid="69" x="224" y="64" width="64" height="32" visible="0">
    <properties>
     <property name="Dialogue Type" value="None"/>
     <property name="Disappear Cooldown" type="float" value="0"/>
@@ -448,7 +448,7 @@ Beware the Dark Power...</property>
     <property name="Unlock Item" value="DevKey"/>
    </properties>
   </object>
-  <object id="124" name="DevKey(HideAfterRuneGetsOne)" class="Mystery Data" gid="58" x="272" y="16" width="14" height="43">
+  <object id="124" name="DevKey(HideAfterRuneGetsOne)" class="Mystery Data" gid="58" x="176" y="16" width="14" height="43">
    <properties>
     <property name="Description" value="A key that proves you are a dev of this server"/>
     <property name="Name" value="DevKey"/>
